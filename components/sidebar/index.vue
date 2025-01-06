@@ -6,6 +6,9 @@ const open = ref(false)
   <div>
     <div class="flex lg:hidden z-50 items-center justify-between w-full h-full p-4">
       <logo />
+      <span class="md:text-2xl">
+        Клиника <span class="text-blue-700">Доверие</span>
+      </span>
       <Icon
         class="z-50 cursor-pointer left-2 top-2"
         size="30"

@@ -3,9 +3,7 @@
 </script>
 
 <template>
-  <div>
-    records
-  </div>
+  Sorry
 </template>
 
 <style scoped>
